@@ -3,7 +3,6 @@ import Welcome from "./pages/Welcome";
 import Login from "./pages/Login";
 import Create from "./pages/Create";
 import Settings from "./pages/Settings";
-import "./app.css";
 
 export default function AllRoutes() {
     return(
